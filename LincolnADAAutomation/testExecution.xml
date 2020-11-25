@@ -1,0 +1,7 @@
+<suite name="Lincoln ADA Automation" >
+   <test name="Test Suite 1" >
+       <classes> 
+          <class name="src/test/java/testCases/*" />
+       </classes>
+   </test>
+ </suite>
